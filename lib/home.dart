@@ -15,7 +15,7 @@ class _PrimeraPantallaState extends State<PrimeraPantalla> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Primera Pantalla'),
+        title: Text('PRIMERA PANTALLA'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
