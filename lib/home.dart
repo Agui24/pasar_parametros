@@ -68,7 +68,8 @@ class _PrimeraPantallaState extends State<PrimeraPantalla> {
                 );
               },
               style: ElevatedButton.styleFrom(
-                primary: Colors.blue, // background color
+                primary:
+                    const Color.fromARGB(255, 229, 33, 243), // background color
                 onPrimary: Colors.white, // text color
               ),
               child: Text('ENVIAR'),
