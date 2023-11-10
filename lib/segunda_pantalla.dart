@@ -54,7 +54,7 @@ class SegundaPantalla extends StatelessWidget {
                 onPressed: () {
                   Navigator.pop(context); // Regresar a la pantalla anterior
                 },
-                child: Text('Regresar'),
+                child: Text('Volver'),
               ),
             ],
           ),
