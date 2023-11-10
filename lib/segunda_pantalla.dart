@@ -17,7 +17,7 @@ class SegundaPantalla extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Segunda Pantalla'),
+        title: Text('SEGUNDA PANTALLA'),
       ),
       body: Center(
         child: Padding(
